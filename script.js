@@ -7,7 +7,7 @@ const myBar = document.querySelector('.progress');
 const title = document.querySelector('.box h1');
 const gif = document.querySelector('#btn img');
 
-const video = 'https://youtu.be/......';
+const video = 'https://www.youtube.com/watch?v=8tLHGaoJ0zE';
 
 const white = 'white';
 const red = 'rgb(235, 59, 59)';
