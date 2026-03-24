@@ -16,7 +16,7 @@ const green = 'rgb(31, 164, 47)';
 let w = 0;
 let intervalId;
 let INCREASE_RATE = 1;
-const INTERVAL_TIME = 50;
+const INTERVAL_TIME = 350;
 let first = true;
 
 let b5 = false;
