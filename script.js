@@ -93,6 +93,7 @@ function frame() {
             if (!b5) {
                 b5 = true; color(green); message('Happy birthday! first of all 🥹');
                 gif.src='gif2.gif';
+                INCREASE_RATE = 1;
             }
         }
         if (w == 30) { 
